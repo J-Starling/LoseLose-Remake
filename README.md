@@ -1,6 +1,6 @@
 # Lose/Lose Remake
 
-A modern Qt remake of Zach Gage's 2007 art game "Lose/Lose" — a space shooter where every enemy you destroy corresponds to a real file on your computer being permanently deleted.
+A modern Qt remake of Zach Gage's 2009 art game "Lose/Lose" — a space shooter where every enemy you destroy corresponds to a real file on your computer being permanently deleted.
 
 ## ⚠️ **EXTREME WARNING**
 
@@ -28,7 +28,7 @@ In **EXTREME MODE**, when you destroy an enemy spaceship, the actual file that e
 
 This remake stays true to the original concept while modernizing the experience:
 
-| Feature | Original (2007) | This Remake |
+| Feature | Original (2009) | This Remake |
 |---------|-----------------|-------------|
 | **Engine** | OpenFrameworks (C++) | Qt 6 (C++17) |
 | **Platform** | macOS only | Windows (cross-platform ready) |
@@ -58,7 +58,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 ## About The Original
 
-"Lose/Lose" was created by Zach Gage in 2007 as a video game art piece exploring the relationship between virtual actions and real-world consequences. The game challenges players to consider what their in-game choices actually mean when translated to real effects.
+"Lose/Lose" was created by Zach Gage in 2009 as a video game art piece exploring the relationship between virtual actions and real-world consequences. The game challenges players to consider what their in-game choices actually mean when translated to real effects.
 
 - **Original release:** 2007
 - **Original creator:** [Zach Gage](https://twitter.com/helvetica)
@@ -174,7 +174,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 
 ### Credits
 
-- Original Concept & Design: Zach Gage (2007)
+- Original Concept & Design: Zach Gage (2009)
 - Remake Implementation: J-Starling
 - Font: PixelSplitter Bold
 - Music: "hwyChipmusik" by xik
