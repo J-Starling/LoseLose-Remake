@@ -1,0 +1,30 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- Images -->
+        <file>images/ship1.png</file>
+        <file>images/ship2.png</file>
+        <file>images/ship3.png</file>
+        <file>images/stars1.png</file>
+        <file>images/stars2.png</file>
+	<file>images/boss1.png</file>
+	<file>images/boss2.png</file>
+	<file>images/boss3.png</file>
+	<file>images/boss4.png</file>
+	<file>images/powerup_shield.png</file>
+	<file>images/shield_aura.png</file>
+	<file>images/powerup_triple.png</file>
+	<file>images/warning_boss.png</file>
+        
+        <!-- Sounds -->
+        <file>sounds/laser3.wav</file>
+        <file>sounds/explosion.wav</file>
+	<file>sounds/powerup.wav</file>
+        <file>sounds/hurt.wav</file>
+        <file>sounds/m3d049_bopSrc_03_hwyChipmusik_by_xik_vbr.mp3</file>
+        
+        <!-- Fonts -->
+        <file>fonts/victor-pixel.ttf</file>
+        <file>fonts/PixelSplitter-Bold.ttf</file>
+    </qresource>
+</RCC>
