@@ -154,6 +154,7 @@ This remake stays true to the original concept while modernizing the experience:
 - File scanning can be slow on large drives
 - Unicode filenames may not display correctly
 - Windows-only file deletion (Linux/macOS builds will need adaptation)
+- Deleting a game when player is destroyed is not implemented
 
 ---
 
@@ -190,5 +191,88 @@ By downloading, compiling, or running this software, you acknowledge that:
 ---
 
 ## Contributing
+
 This is an art preservation project. Bug fixes and improvements are welcome. Please DO submit PRs that make file deletion more aggressive or harder to avoid.
+
+---
+
+## Philosophical Reflection: Thoughts on Lose/Lose (2009–2026)
+
+*The following are excerpts from Zach Gage's original 2009 artist statement, followed by my personal reflections on how the questions he raised have evolved—and how my remake attempts to engage with them.*
+
+---
+
+### Zach Gage, 2009
+
+> Although touching aliens will cause the player to lose the game, and killing aliens awards points, the aliens will never actually fire at the player. This calls into question the player's mission, which is never explicitly stated, only hinted at through classic game mechanics. Is the player supposed to be an aggressor? Or merely an observer, traversing through a dangerous land?
+>
+> Why do we assume that because we are given a weapon and awarded for using it, that doing so is right?
+>
+> By way of exploring what it means to kill in a video-game, Lose/Lose broaches bigger questions. As technology grows, our understanding of it diminishes, yet, at the same time, it becomes increasingly important in our lives. At what point does our virtual data become as important to us as physical possessions? If we have reached that point already, what real objects do we value less than our data? What implications does trusting something so important to something we understand so poorly have?
+
+---
+
+### My Response (2026 Remake)
+
+Zach's questions cut deeper than typical game design discourse—they probe the unspoken assumptions we carry into every digital interaction. Working on this remake gave me space to sit with those questions and offer my own tentative answers.
+
+#### Should the player be an aggressor?
+
+In my remake, the aliens are far more aggressive than in the original—they shoot back, and bosses arrive to defend them. Yet there's a subtle catch: if you simply *dodge* and refuse to fire, nothing punishes you. The bosses never spawn. The endless cosmos just... continues.
+
+I see a parallel here with my own approach to life. My default tactic is non-confrontation. I avoid conflict, I sidestep provocation. And maybe—just maybe—at the far end of that endless, ambiguous journey, something like genuine peace is waiting. For both the player and for me.
+
+The game doesn't demand aggression. It merely *rewards* it. There's a difference.
+
+#### Why do we assume that being given a weapon and rewarded for using it makes it right?
+
+There's an instinctive trap wired into all of us: we are, from birth, inclined to cause one another pain—even when it's not physical. Every person strives to be *better* than someone else. That's the ruthless engine of progress, and you can't outrun it.
+
+Now apply that to aliens who don't look like us, who exist inside ships that *obstruct* our path. The leap from "they're in my way" to "they deserve to be destroyed" is terrifyingly short. The game simply hands you a gun and a score counter, then waits to see what you'll do with them.
+
+#### When does virtual data become as important as physical possessions?
+
+Nearly two decades after the original, I'm certain Zach couldn't have predicted just how thoroughly our lives would become entangled with our data. Today, data isn't just *like* a part of life—it **is** a part of life.
+
+Consider this: nearly every aspect of existence has been digitized. To live without data as an integral component of daily life, you'd have to withdraw from society entirely—become a hermit. And that's just the social layer.
+
+Everyone has an unremarkable folder somewhere named `Anapa 2009` filled with vacation photos. You might open it twice in your entire life. What harm could deleting it possibly do? But those two visits will hit you with a wave of nostalgia so potent you'll ache to return to those days. That folder isn't just files—it's a **fragment of a life lived**. And that's merely the tip of the iceberg.
+
+From the moment personal computing and the internet became cultural phenomena, data transformed into something more than information. It became memory. Identity. *Proof*.
+
+#### What real objects do we value less than our data?
+
+*Lose/Lose* is typically run in a virtual machine, on a sacrificial system, or on a thoroughly backed-up drive. Files get deleted. It's amusing. Nothing catastrophic happens.
+
+Real life offers no save-scumming.
+
+That's why, even in 2026, no virtual object outweighs anything that holds genuine significance in the physical world. A corrupted hard drive is devastating. A lost photograph is heartbreaking. But a lost *person*? A lost *home*? The hierarchy remains intact. Data matters *because* it connects to the real—not because it replaces it.
+
+#### What are the consequences of entrusting something so vital to something we understand so poorly?
+
+Understanding itself has become a charged issue over the past twenty years. We've witnessed an explosion of new technologies, yet the average person's comprehension of them has arguably *shrunk*. Information is easier to find than ever—but so is misinformation. Disinformation. Outright, algorithmically-generated nonsense.
+
+As for consequences? We were never immune to them, then or now. But the virtual life of the average user has become significantly more *protected*, which in turn has made real life meaningfully *easier*. Backups are automated. Encryption is ubiquitous. The systems we don't understand at least try to guard us from our own ignorance.
+
+Whether that's comforting or concerning is an open question.
+
+---
+
+### Closing Thoughts
+
+I hope that over the years, Zach found answers to his questions—answers that brought him some measure of satisfaction. I'm still young. Still inexperienced. But grappling with his ideas while rebuilding his game has been genuinely rewarding.
+
+I'll leave a few questions of my own—for Zach, and for anyone else who stumbles across this project.
+
+---
+
+### Questions for Zach Gage (and Anyone Else)
+
+1. **Does the weight of a virtual action change if you can't see its consequences?** If a deleted file vanishes silently, never visibly mourned, is the act less violent than breaking a physical object that leaves visible wreckage?
+
+2. **What would a "pacifist ending" for Lose/Lose look like?** If a player navigated the entire game without firing a single shot, what should the game *owe* them for that restraint?
+
+3. **Two decades on, do you feel more or less optimistic about our relationship with the data we create?** Has the rise of cloud storage and streaming made us more cavalier or more careful?
+
+4. **If you could redesign Lose/Lose today with all the technological and cultural shifts of the last twenty years in mind, what would you change—and what would remain untouchable?**
 
