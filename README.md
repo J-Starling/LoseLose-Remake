@@ -127,7 +127,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 - Qt 6.x (Core, GUI, Widgets, Multimedia)
 - C++17 compatible compiler
@@ -135,7 +135,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 ---
 
-### File Deletion Process (Extreme Mode)
+## File Deletion Process (Extreme Mode)
 
 - Remove file attributes (SetFileAttributesW)
 - Attempt direct deletion (DeleteFileW)
@@ -147,7 +147,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 ---
 
-### Known Issues
+## Known Issues
 
 - File deletion may fail on system-protected files or files in use
 - Some antivirus software may flag the game's behavior
@@ -157,7 +157,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 ---
 
-### Legal & Ethical Disclaimer
+## Legal & Ethical Disclaimer
 
 - This software is provided for educational and artistic purposes only. The author:
 - Takes NO RESPONSIBILITY for any data loss or system damage
@@ -172,7 +172,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 
 ---
 
-### Credits
+## Credits
 
 - Original Concept & Design: Zach Gage (2009)
 - Remake Implementation: J-Starling
@@ -181,7 +181,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 
 ---
 
-### Resources
+## Resources
 
 [Zach Gage's portfolio](http://stfj.net/)
 [Original Lose/Lose website](http://stfj.net/art/2009/loselose/)
@@ -189,6 +189,6 @@ By downloading, compiling, or running this software, you acknowledge that:
 
 ---
 
-### Contributing
+## Contributing
 This is an art preservation project. Bug fixes and improvements are welcome. Please DO submit PRs that make file deletion more aggressive or harder to avoid.
 
