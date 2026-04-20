@@ -60,7 +60,7 @@ This remake stays true to the original concept while modernizing the experience:
 
 "Lose/Lose" was created by Zach Gage in 2009 as a video game art piece exploring the relationship between virtual actions and real-world consequences. The game challenges players to consider what their in-game choices actually mean when translated to real effects.
 
-- **Original release:** 2007
+- **Original release:** 2009
 - **Original creator:** [Zach Gage](https://twitter.com/helvetica)
 - **Genre:** Art game / Shoot 'em up / Digital performance art
 
