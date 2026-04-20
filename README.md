@@ -61,7 +61,7 @@ This remake stays true to the original concept while modernizing the experience:
 "Lose/Lose" was created by Zach Gage in 2007 as a video game art piece exploring the relationship between virtual actions and real-world consequences. The game challenges players to consider what their in-game choices actually mean when translated to real effects.
 
 - **Original release:** 2007
-- **Original creator:** Zach Gage (stfj.net)
+- **Original creator:** [Zach Gage](https://twitter.com/helvetica)
 - **Genre:** Art game / Shoot 'em up / Digital performance art
 
 ---
@@ -128,6 +128,7 @@ This remake stays true to the original concept while modernizing the experience:
 ---
 
 ### Prerequisites
+
 - Qt 6.x (Core, GUI, Widgets, Multimedia)
 - C++17 compatible compiler
 - Windows SDK (for file operations)
@@ -135,6 +136,7 @@ This remake stays true to the original concept while modernizing the experience:
 ---
 
 ### File Deletion Process (Extreme Mode)
+
 - Remove file attributes (SetFileAttributesW)
 - Attempt direct deletion (DeleteFileW)
 - Escalate privileges and take ownership if needed
@@ -146,6 +148,7 @@ This remake stays true to the original concept while modernizing the experience:
 ---
 
 ### Known Issues
+
 - File deletion may fail on system-protected files or files in use
 - Some antivirus software may flag the game's behavior
 - File scanning can be slow on large drives
@@ -155,6 +158,7 @@ This remake stays true to the original concept while modernizing the experience:
 ---
 
 ### Legal & Ethical Disclaimer
+
 - This software is provided for educational and artistic purposes only. The author:
 - Takes NO RESPONSIBILITY for any data loss or system damage
 - Does NOT endorse using this software to harm systems
@@ -169,6 +173,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 ---
 
 ### Credits
+
 - Original Concept & Design: Zach Gage (2007)
 - Remake Implementation: J-Starling
 - Font: PixelSplitter Bold
@@ -177,6 +182,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 ---
 
 ### Resources
+
 [Zach Gage's portfolio](http://stfj.net/)
 [Original Lose/Lose website](http://stfj.net/art/2009/loselose/)
 [Lose/Lose Wikipedia article](https://en.wikipedia.org/wiki/Lose/Lose)
