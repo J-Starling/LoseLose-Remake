@@ -175,7 +175,7 @@ By downloading, compiling, or running this software, you acknowledge that:
 ## Credits
 
 - Original Concept & Design: Zach Gage (2009)
-- Remake Implementation: J-Starling
+- Remake Implementation: Jack Starling
 - Font: PixelSplitter Bold
 - Music: "hwyChipmusik" by xik
 
