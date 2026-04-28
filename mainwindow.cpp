@@ -8,7 +8,6 @@
 #include <QTransform>
 #include <math.h>
 
-// нопедекъел люяяхб х ьпхтр гдеяэ
 QImage imgBossFrames[4];
 QFont mainFont;
 
